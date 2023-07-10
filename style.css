@@ -22,7 +22,7 @@
 /* font-weight: 800; */
 }
 
-
+/* ====== header-title ====*/
 
 .title{
     color: #272727;
@@ -31,6 +31,7 @@
 
 }
 
+/* ====== header-description ====*/
 
 .title-description{
     color: #27272799;
@@ -39,6 +40,7 @@
     margin: 32px 0px 32px 0px;
 }
 
+/* ====== header-shop Now-button ====*/
 
 .primary-btn{
     color: #FFF;
@@ -62,10 +64,38 @@ border: none;
     height: 800px;
     padding: 120px 150px 0px 0px;
 }
+/* ====== header-section finish ====*/
 
 
-.image{
+/* ======================== */
+
+.sale-container{
+    width: 1922px;
+    height: 620px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    background: #e554730d;
+}
+
+
+.sale-up-section{
+text-align: center;
+color: #272727;
+padding: 230px 0px 258px 205px;
+/* font-size: 40px; */
+/* font-weight: 800; */
 
 }
 
+.sale-up-title{
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.sale-up-title-highlight{
+
+    color: #E55473;
+}
 
