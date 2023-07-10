@@ -8,7 +8,7 @@
     display: flex;
 
     justify-content: space-between;
-    background-color: #817171;
+    background-color: #E554731A;
     background-size: 100vh;
 }
 
@@ -58,7 +58,7 @@ border: none;
 /* ====== header-image ====*/
 
 .header-image{
-    width: 635px;
+    width: 639px;
     height: 800px;
     padding: 120px 150px 0px 0px;
 }
