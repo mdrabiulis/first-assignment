@@ -70,8 +70,7 @@ border: none;
 /* ======================== */
 
 .sale-container{
-    width: 1922px;
-    height: 620px;
+    background-size: 100vh;
     display: flex;
     justify-content: space-between;
     border-radius: 8px;
