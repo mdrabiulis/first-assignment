@@ -9,13 +9,13 @@
 
     justify-content: space-between;
     background-color: #817171;
-    background-size: 100vh;
+    background-size: 80vh;
 }
 
 
 .title-section{
     color: #272727;
-    padding: 170px 98px 0px 240px;
+    padding: 180px 98px 0px 230px;
 
 /* font-size: 80px; */
 /* text-align: center; */
@@ -55,6 +55,17 @@ border: none;
 }
 
 
+/* ====== header-image ====*/
 
+.header-image{
+    width: 635px;
+    height: 800px;
+    padding: 150px 50px 0px 10px;
+}
+
+
+.image{
+
+}
 
 
