@@ -81,7 +81,7 @@ border: none;
 .sale-up-section{
 text-align: center;
 color: #272727;
-padding: 230px 0px 258px 205px;
+padding: 230px 0px 258px 600px;
 /* font-size: 40px; */
 /* font-weight: 800; */
 
@@ -102,6 +102,6 @@ padding: 230px 0px 258px 205px;
 .top-sale-product-image{
     width: 318px;
     height: 420px;
-    padding: 120px 320px;
+    padding: 120px 600px 0px 320px;
 }
 
