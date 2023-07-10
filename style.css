@@ -95,7 +95,14 @@ padding: 230px 0px 258px 205px;
 }
 
 .sale-up-title-highlight{
+         color: #E55473;
+}
 
-    color: #E55473;
+
+
+.top-sale-product-image{
+    width: 318px;
+    height: 420px;
+    padding: 120px 320px;
 }
 
