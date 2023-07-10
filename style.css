@@ -261,3 +261,51 @@ font-weight: 800;
     border-radius: 8px;
     background: #FFF;
 }
+
+
+
+
+/* == footer-section */
+
+
+.flowershop-section{
+    background-color:#111010;
+    text-align: center;
+    width: 1922px;
+    height: 449px;
+
+}
+.flowershop-footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding: 100px 100px 5px;
+
+}
+
+.footer-title-highlight{
+    color: #FFF;
+}
+
+
+.footer-title-description{
+
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+
+
+
+
+.footer-rights-reserved-description{
+
+color: #FFFFFF66;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
