@@ -1,4 +1,4 @@
-*{
+*{  
     padding: 0px;
     margin: 0px;
     font-family: 'Lato', sans-serif;
@@ -103,5 +103,29 @@ padding: 230px 0px 258px 600px;
     width: 318px;
     height: 420px;
     padding: 120px 600px 0px 320px;
+}
+
+/* ==============social-media-section========== */
+
+.social-media-section{
+    text-align: center;
+}
+
+
+.social-media-name{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 120px 0px 0px;
+}
+
+.more-flowers-section{
+    text-align: center;
+    padding: 5px 10px;
+    margin: 10px;
+}
+
+.more-flowers-section img{
+    margin: 15px;
 }
 
