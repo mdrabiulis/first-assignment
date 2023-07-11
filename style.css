@@ -56,6 +56,22 @@ border: none;
 cursor: pointer;
 }
 
+.secondary-btn{
+    color: #0f0f0f;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #504f50;
+    display: inline-flex;
+    padding: 20px 43px;
+    margin: 20px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+
 
 /* ====== header-image ====*/
 
@@ -239,9 +255,19 @@ padding: 230px 0px 258px 200px;
 }
 
 
+.recommended-for-image{
+    display: flex;
+text-align: center;
+justify-content: space-around;
+}
 
 
+.add-to-cart-button{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
 
+}
 
 
 
