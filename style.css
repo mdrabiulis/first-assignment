@@ -142,16 +142,12 @@ text-decoration-line: underline;
     width: 1440px;
      height: 320px;
     background-color:#2727270D ;
-    background-position: left center;
+    background-position: center;
     border-radius: 8px;
-    
-    margin: 0px 10px 120px 200px;
 }
 .delivery-day{
     display: flex;
     text-align: center;
-    justify-content: space-between;
-    padding: 100px;
 
 }
 
