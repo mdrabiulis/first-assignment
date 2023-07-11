@@ -210,6 +210,42 @@ padding: 230px 0px 258px 200px;
 
 
 
+.recommended-for-you{
+    /* display: flex; */
+    text-align: center;
+}
+
+
+.recommended-title{
+    text-align: center;
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 1000;
+    padding-top: 80px;
+
+}
+
+
+.recommended-title-description{
+    text-align: center;
+    display: flex;
+    color: #27272799;
+    font-size: 17px;
+    line-height: 30px;
+    margin: 32px 0px 32px 0px;
+    padding: 0px 0px 120px 560px ;
+
+}
+
+
+
+
+
+
+
+
+
 /* ========   social-media-section   ====== */
 
 .social-media-section{
@@ -314,11 +350,10 @@ font-weight: 800;
 
 .footer-title-description{
 
-    color: rgba(255, 255, 255, 0.90);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
+    color: #27272799;
+    font-size: 17px;
     line-height: 30px;
+    margin: 32px 0px 120px 0px;
 
 }
 
