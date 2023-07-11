@@ -53,7 +53,7 @@ padding: 20px 43px;
 align-items: flex-start;
 gap: 10px;
 border: none;
-
+cursor: pointer;
 }
 
 
@@ -75,9 +75,9 @@ border: none;
 .our-featured-flowers-item{
     color: #272727;
 text-align: center;
-font-size: 40px;
-font-weight: 800;
-padding-top: 120px;
+font-size: 30px;
+font-weight: 400;
+padding-top: 100px;
 
 }
 
@@ -89,15 +89,16 @@ padding-top: 120px;
     text-align: center;
     display: flex;
     justify-content: space-evenly;
-    padding: 200px;
+    padding: 145px;
+    margin: 55px;
 
 }
 
 
 .backgrund-a{
-    width: 310px;
+    width: 300px;
     height: 428px;
-    padding: 120px 60px 0px 60px;
+    padding: 100px 60px 0px 60px;
     background-color: #0597A026;
     border-radius: 300px 300px 0px 0px;
 
@@ -106,7 +107,7 @@ padding-top: 120px;
 .backgrund-b{
     width: 300px;
     height: 428px;
-    padding: 120px 60px 0px 60px;
+    padding: 100px 60px 0px 60px;
     background-color: #A7216226;
     border-radius: 300px 300px 0px 0px;
     
@@ -116,7 +117,7 @@ padding-top: 120px;
 .backgrund-c{
     width: 310px;
     height: 428px;
-    padding: 120px 60px 0px 60px;
+    padding: 100px 60px 0px 60px;
     border-radius: 300px 300px 0px 0px;
     background: #477D1126;
     
@@ -129,7 +130,7 @@ color: #272727;
 text-align: center;
 font-size: 40px;
 font-weight: 700;
-line-height: 40px;
+line-height: 60px;
 text-decoration-line: underline;
 }
 
